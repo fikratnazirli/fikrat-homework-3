@@ -1,0 +1,43 @@
+
+.img{
+   background-image: linear-gradient( to left,blue,aqua);
+   width: 200px;
+   height: 300px;
+   border: solid 200px;
+}
+.font{
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 270px;
+    margin-left: 510px;
+}
+.margin{
+  margin-right: 50px;
+}
+.flex{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+}
+.pflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.border{
+    border: solid white 1px;
+ 
+    font-size: 20px;
+    margin-right: 10px;
+    margin-top: 350px;
+    
+  
+}
